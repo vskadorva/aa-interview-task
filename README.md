@@ -16,7 +16,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Run Locally
 
-Clone the project
+Clone the project (Prefer to fork it)
 
 ```bash
   git clone https://github.com/vskadorva/aa-interview-task.git
