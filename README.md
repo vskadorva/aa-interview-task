@@ -44,6 +44,7 @@ Start the server
 ## YOUR TASKS
 
 - Explore the web app
-- Write API, e2e and component test using Playwright or Cypress (you can use google)
+- Explore the code source
+- Write API, e2e and component tests using Playwright or Cypress (you can use Google)
 - Execute your tests
 
